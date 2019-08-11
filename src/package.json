@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-instagram-auth",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Your awesome NativeScript plugin.",
 	"main": "instagram-auth",
 	"typings": "index.d.ts",
