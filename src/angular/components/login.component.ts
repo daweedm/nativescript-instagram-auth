@@ -10,7 +10,7 @@ export interface InstagramLoginResponse {
 
 @Component({
     selector: 'instagram-auth',
-    templateUrl: './login.component.html',
+    templateUrl: './login.component.tns.html',
     styleUrls: ['./login.component.scss'],
     moduleId: module.id,
 })
